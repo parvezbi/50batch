@@ -1,0 +1,493 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*nav start*/
+.navbar .navbar-brand img{
+     width: 100%;
+}
+/*nav end*/
+
+/*banner start*/
+.main_banner{
+    margin:100px auto;
+}
+.banner_cont{
+    text-align: center;
+     margin: 30px auto 0;
+}
+.banner_cont h1 {
+    font-size: 30px;
+}
+.banner_cont h2{
+    font-size: 16px;
+}
+.banner_cont h3{
+    font-size: 20px;
+}
+.count_down > div {
+  font-size: 25px;
+}
+.banner_iso h3 {
+  font-size: 21px;
+}
+span {
+  font-size: 25px;
+}
+.banner_btn{
+    text-align: center;
+    margin: 2px 0 0 0;
+}
+
+.banner_btn button{
+    font-size: 20px;
+    padding: 5px 20px;
+}
+/*banner end*/
+
+/*cms start*/
+.cms{
+   padding: 0 0 10px 0;
+}
+.cms_header h2{
+    font-size: 25px;
+}
+.cms_header_white h2{
+    font-size: 25px;
+}
+.owl-carousel {
+    padding: 10px;
+}
+/*cms end*/
+
+/*Setup start*/
+.hosting-setup {
+  padding: 0px 0px 30px 0px;
+}
+.hosting-setup .left-content h6 {
+  font-size: 20px;
+  text-align: center;
+}
+.hosting-setup .right-image {
+  text-align: center;
+}
+.hosting-setup .right-image img {
+    width: 50%;
+    margin-top: 10px;
+}
+/*Setup end*/
+
+/*Hosting start*/
+.pricing-item {
+    padding: 20px 50px 20px 50px;
+    margin: 20px 0px 10px 0px;
+}
+.pricing-item .price {
+    padding: 20px 0px;
+}
+.pricing-item .price h6 {
+    font-size: 32px;
+}
+.pricing-item .dev {
+    margin: 15px 0px 15px 0px;
+}
+.pricing-item ul li {
+    font-size: 16px;
+}
+.pricing-item ul li i {
+    font-size: 14px;
+}
+.pricing-item ul li:last-child {
+    margin-bottom: 10px;
+}
+.tabbs{
+  font-size: 15px;
+  margin-right: 10px;
+  padding: 10px 10px;
+}
+/*Hosting end*/
+
+/*Cloud start*/
+.pricing-item-cloud {
+    padding: 20px 50px 20px 50px;
+    margin: 20px 0px 10px 0px;
+}
+.pricing-item-cloud .price {
+    padding: 20px 0px;
+}
+.pricing-item-cloud .price h6 {
+    font-size: 32px;
+}
+.pricing-item-cloud .dev {
+    margin: 15px 0px 15px 0px;
+}
+.pricing-item-cloud ul li {
+    font-size: 16px;
+}
+.pricing-item-cloud ul li i {
+    font-size: 14px;
+}
+.pricing-item-cloud ul li:last-child {
+    margin-bottom: 10px;
+}
+/*Cloud end*/
+
+/*Dedicated start*/
+/*Dedicated end*/
+
+/*Certificate start*/
+/*Certificate end*/
+
+/*Clients start*/
+/*Clients end*/
+
+/*Client Review start*/
+/*Client Review end*/
+
+/*Openstack start*/
+.thumb{
+   width: 30%;
+  float: left;
+}
+.right-content{
+   width: 70%;
+   float: left;
+}
+.right-content p{
+  font-size: 14px;
+  color: #0d8800;
+}
+/*Openstack end*/
+
+/*Contact start*/
+.support-right-image{
+ width: 50%;
+ float: right;
+ text-align: center;
+ padding: 20px 80px 0px 0px;
+}
+.support-left-image{
+ width: 50%;
+ float: left;
+ text-align: center;
+ padding: 10px 0px 0px 80px;
+}
+/*Contact end*/
+
+/*Frequently Asked Question start*/
+.accordion button .accordion-title {
+  font-size: 14px;
+  padding: 0px 10px;
+}
+.accordion button .icon {
+  top: 19px;
+}
+.accordion .accordion-content p{
+     font-size: 14px;
+}
+/*Frequently Asked Question end*/
+
+/*Whatsapp Asked Question start*/
+.heading-2{
+    text-align: center;
+}
+.text-right{
+    text-align: center !important;
+}
+/*Whatsapp Asked Question end*/
+
+/*button start*/
+.border-first-button{
+    text-align: center;
+}
+.border-first-button a {
+    font-size: 12px;
+    padding: 7px 13px !important;
+}
+
+.border-first-button a:hover {
+  background-color: #0d8800;
+  color: #fff !important;
+}
+
+.border-first-button-greenbg a {
+
+    font-size: 12px;
+    padding: 7px 13px !important;
+}
+
+.border-first-button-greenbg a:hover {
+  background-color: #fff;
+  color: #0d8800 !important;
+}
+/*button end*/
+/*footer*/
+.footer-heading h2{
+    margin-bottom: 5px !important;
+    text-align: center;
+}
+footer ul {
+    text-align: center;
+}
+.footer-item{
+    margin-bottom: 20px;
+}
+footer p{
+    text-align: center;
+}
+footer .sub-footer{
+    padding-top: 10px !important;
+}
+.btn_wrap{
+   margin: 10px 96px;
+}
+/*footer*/
+
+/*Certificate---------------------------------------------------------*/
+.pages_cont h2{
+    font-size: 30px;
+}
+ .certificate_img img{
+    width: 60%;
+ }
+ .certificate_content h2{
+    font-size: 33px;
+ }
+ .certificate_content{
+    text-align: center;
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*Setup start*/
+.hosting-setup {
+  padding: 0px 0px 30px 0px;
+}
+.hosting-setup .left-content h6 {
+  font-size: 20px;
+  text-align: center;
+}
+.hosting-setup .right-image {
+  text-align: center;
+}
+.hosting-setup .right-image img {
+    width: 50%;
+    margin-top: 10px;
+}
+.banner_iso h3 {
+  font-size: 21px;
+}
+.btn_wrap{
+   margin: 10px 96px;
+}
+/*Setup end*/
+/*Certificate---------------------------------------------------------*/
+.pages_cont h2{
+    font-size: 30px;
+}
+ .certificate_img img{
+    width: 60%;
+ }
+ .certificate_content h2{
+    font-size: 33px;
+ }
+ .certificate_content{
+    text-align: center;
+ }
+
+.tabbs{
+  font-size: 15px;
+  margin-right: 10px;
+  padding: 10px 10px;
+}
+
+}
+
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+/*Setup start*/
+.hosting-setup {
+  padding: 0px 0px 30px 0px;
+}
+.hosting-setup .left-content h6 {
+  font-size: 20px;
+  text-align: center;
+}
+.hosting-setup .right-image {
+  text-align: center;
+}
+.hosting-setup .right-image img {
+    width: 50%;
+    margin-top: 10px;
+}
+/*Setup end*/
+
+/*header start*/
+/*header end*/
+
+/*banner start*/
+/*banner end*/
+
+/*cms start*/
+/*cms end*/
+
+/*Setup start*/
+/*Setup end*/
+
+/*Hosting start*/
+/*Hosting end*/
+
+/*Cloud start*/
+/*Cloud end*/
+
+/*Dedicated start*/
+/*Dedicated end*/
+
+/*Certificate start*/
+/*Certificate end*/
+
+/*Clients start*/
+/*Clients end*/
+
+/*Client Review start*/
+/*Client Review end*/
+
+/*Openstack start*/
+/*Openstack end*/
+
+/*Contact start*/
+/*Contact end*/
+
+/*Whatsapp Asked Question start*/
+.heading-2{
+    text-align: center;
+}
+.text-right{
+    text-align: center !important;
+}
+/*Whatsapp Asked Question end*/
+
+/*Frequently Asked Question start*/
+.accordion .accordion-content p{
+     font-size: 14px;
+}
+/*Frequently Asked Question end*/
+}
+/*footer*/
+.footer-heading h2{
+    margin-bottom: 5px !important;
+    text-align: center;
+}
+footer ul {
+    text-align: center;
+}
+.footer-item{
+    margin-bottom: 20px;
+}
+footer p{
+    text-align: center;
+}
+footer .sub-footer{
+    padding-top: 10px !important;
+}
+
+/*Certificate---------------------------------------------------------*/
+.pages_cont h2{
+    font-size: 30px;
+}
+ .certificate_img img{
+    width: 60%;
+ }
+ .certificate_content h2{
+    font-size: 33px;
+ }
+ .certificate_content{
+    text-align: center;
+ }
+/*footer*/
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*header start*/
+/*header end*/
+
+/*banner start*/
+/*banner end*/
+
+/*cms start*/
+/*cms end*/
+
+/*Setup start*/
+/*Setup end*/
+
+/*Hosting start*/
+/*Hosting end*/
+
+/*Cloud start*/
+/*Cloud end*/
+
+/*Dedicated start*/
+/*Dedicated end*/
+
+/*Certificate start*/
+/*Certificate end*/
+
+/*Clients start*/
+/*Clients end*/
+
+/*Client Review start*/
+/*Client Review end*/
+
+/*Openstack start*/
+/*Openstack end*/
+
+/*Contact start*/
+/*Contact end*/
+
+/*Frequently Asked Question start*/
+/*Frequently Asked Question end*/
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	
+/*header start*/
+/*header end*/
+
+/*cms start*/
+/*cms end*/
+
+/*Setup start*/
+/*Setup end*/
+
+/*Hosting start*/
+/*Hosting end*/
+
+/*Cloud start*/
+/*Cloud end*/
+
+/*Dedicated start*/
+/*Dedicated end*/
+
+/*Certificate start*/
+/*Certificate end*/
+
+/*Clients start*/
+/*Clients end*/
+
+/*Client Review start*/
+/*Client Review end*/
+
+/*Openstack start*/
+/*Openstack end*/
+
+/*Contact start*/
+/*Contact end*/
+
+/*Frequently Asked Question start*/
+/*Frequently Asked Question end*/
+
+}
